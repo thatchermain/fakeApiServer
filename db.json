@@ -29,7 +29,6 @@
 	{
 		"id": 2,
 		"text": "Do jakiego urządzenia jest podłączony czujnik zalania? [V SERIA]",
-		"image": "czujnik.jpg",
 		"answers": [{
 			"id": 1,
 			"text": "Do PC",
