@@ -100,7 +100,7 @@
 	{
 		"id": 5,
 		"text": "Do którego złącza powinien być podłączony czujnik jakości powietrza Airly? [NEW FM]",
-		"image": "pytania5.jpg",
+		"image": "../assets/images/pytania5.jpg",
 		"answers": [{
 			"id": 1,
 			"text": "3W5",
