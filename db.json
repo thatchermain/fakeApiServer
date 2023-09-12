@@ -1,6 +1,7 @@
 [{
 	"id": 1,
 	"text": "Pytanie nr 1",
+	"image": "https://bobbyhadz.com/images/blog/react-prevent-multiple-button-clicks/thumbnail.webp"
 	"answers": [{
 		"id": 1,
 		"text": "Odp. 1.1",
