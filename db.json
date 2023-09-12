@@ -449,7 +449,7 @@
 	{
 		"id": 20,
 		"text": "Napięciem o jakiej wartości może być wysterowany poniższy przekaźnik?",
-		"image": "pytania20.jpg",
+		"image": "https://github.com/thatchermain/fakeApiServer/blob/main/pytania20.jpg",
 		"answers": [{
 			"id": 1,
 			"text": "250V",
