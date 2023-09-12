@@ -99,7 +99,7 @@
 	{
 		"id": 5,
 		"text": "Do którego złącza powinien być podłączony czujnik jakości powietrza Airly? [NEW FM]",
-		"image": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+		"image": "/images/pytania5.jpg",
 		"answers": [{
 			"id": 1,
 			"text": "3W5",
@@ -448,7 +448,7 @@
 	{
 		"id": 20,
 		"text": "Napięciem o jakiej wartości może być wysterowany poniższy przekaźnik?",
-		"image": "https://github.com/thatchermain/fakeApiServer/blob/main/pytania20.jpg",
+		"image": "/images/pytania20.jpg",
 		"answers": [{
 			"id": 1,
 			"text": "250V",
