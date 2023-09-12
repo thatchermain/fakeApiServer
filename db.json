@@ -124,7 +124,7 @@
 	{
 		"id": 6,
 		"text": "Której serii dotyczy fragment poniższego schamatu?",
-		"image": "pytania6.jpg",
+		"image": "/images/pytania6.jpg",
 		"answers": [{
 			"id": 1,
 			"text": "I serii",
