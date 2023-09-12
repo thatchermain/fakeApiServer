@@ -363,7 +363,7 @@
 		}, {
 			"id": 2,
 			"text": "Wyłączam zasilanie, zabezpieczam centralkę przed zalaniem i podejmuję próbę wymiany zasilacza. ",
-			"isCorrect": "false"
+			"isCorrect": "true"
 		}, {
 			"id": 3,
 			"text": "Czekam, aż deszcz przestanie padać",
