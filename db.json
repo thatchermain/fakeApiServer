@@ -1,12 +1,12 @@
 [
   {
-    id: 1,
-    text: 'Pytanie nr 1',
-    answers: [
+    "id": "1",
+    "text": "Pytanie nr 1",
+    "answers": [
       {
-        id: 1,
-        text: 'Odp. 1.1',
-        isCorrect: 'true',
+        "id": "1",
+        "text": "Odp. 1.1",
+        "isCorrect": "true",
       },
       {
         id: 2,
