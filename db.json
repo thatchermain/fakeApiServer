@@ -3,6 +3,7 @@
 	{
 		"id": 1,
 		"text": "1. Najnowszy FW extendera (expandera) to:",
+		"time" : 3,
 		"answers": [{
 			"id": 1,
 			"text": "1.03rc1",
@@ -29,6 +30,7 @@
 	{
 		"id": 2,
 		"text": "Do jakiego urządzenia jest podłączony czujnik zalania? [V SERIA]",
+		"time" : 3,
 		"answers": [{
 			"id": 1,
 			"text": "Do PC",
@@ -51,6 +53,7 @@
 	{
 		"id": 3,
 		"text": "Zaktualizuj FW routera (maszyna nie jest wyposażona w nDVR). [NEW FM]",
+		"time" : 3,
 		"answers": [{
 			"id": 1,
 			"text": "RDS-03.03-PL-20220518.dat",
@@ -77,6 +80,7 @@
 	{
 		"id": 4,
 		"text": "Które piny we wtyczce RS znajdującej się w puszce Harting odpowiadają za komunikację z extenderami (expanderami)?",
+		"time" : 3,
 		"answers": [{
 			"id": 1,
 			"text": "Piny 3 oraz 7",
@@ -99,6 +103,7 @@
 	{
 		"id": 5,
 		"text": "Do którego złącza powinien być podłączony czujnik jakości powietrza Airly? [NEW FM]",
+		"time" : 3,
 		"image": "/images/pytania5.jpg",
 		"answers": [{
 			"id": 1,
@@ -123,6 +128,7 @@
 	{
 		"id": 6,
 		"text": "Której serii dotyczy fragment poniższego schamatu?",
+		"time" : 3,
 		"image": "/images/pytania6.jpg",
 		"answers": [{
 			"id": 1,
@@ -147,6 +153,7 @@
 	{
 		"id": 7,
 		"text": "Wybierz wartość napięcia, które nie występuje w maszynie. [I SERIA] ",
+		"time" : 3,
 		"answers": [{
 			"id": 1,
 			"text": "9V",
@@ -170,6 +177,7 @@
 	{
 		"id": 8,
 		"text": "Żaden z zamków w module centralnym nie jest widoczny w zakładce 'Get lockers status ' (Service Application) podczas skanowania.Wiązka zamkowa jest sprawna, prawidłowo podłączona do ALC oraz zamków, liczba zamków w ustawieniach extendera(expandera) jest prawidłowa.Co jest najbardziej prawdopodobną przyczyną ? [NEW FM]",
+		"time" : 3,
 		"answers": [{
 			"id": 1,
 			"text": "Nieaktualna wersja Service Application",
@@ -193,6 +201,7 @@
 	{
 		"id": 9,
 		"text": "Po aktualizacji FW sterownika Micro XLL grzałka oraz wentylatory są cały czas włączone, odczyty temperatur są nieprawidłowe. Co jest najbardziej prawdopodobną przyczyną?",
+		"time" : 3,
 		"answers": [{
 			"id": 1,
 			"text": "Uszkodzone wszystkie czujniki temperatur",
@@ -216,6 +225,7 @@
 	{
 		"id": 10,
 		"text": "Co oznacza kod *********** (11)?",
+		"time" : 3,
 		"answers": [{
 			"id": 1,
 			"text": "Nieautoryzowane otwarcie skrytek",
@@ -239,6 +249,7 @@
 	{
 		"id": 11,
 		"text": "Po wymianie LCD controller'a data i godzina są nieprawidłowe. W jaki sposób można wymusić synchronizację daty i czasu w LCD controller’a?",
+		"time" : 3,
 		"answers": [{
 			"id": 1,
 			"text": "Za pomocą Service Application",
@@ -263,6 +274,7 @@
 
 		"id": 12,
 		"text": "Jak wygląda proces rozliczenia faktury zakupowej?",
+		"time" : 3,
 		"answers": [{
 			"id": 1,
 			"text": "W pierwszej kolejności należy założyć zapotrzebowanie w zakładce 'zasoby' i wysłać do zatwierdzenia. Jeżeli zostanie zatwierdzone należy dodać fakturę, uzupełnić wszystkie wymagane pola i wysłać do weryfikacji. Przed końcem miesiąca należy wysłać oryginał faktury oraz wyciąg z karty płatniczej do biura za pomocą wcześniej wygenerowanego kodu nadania.",
@@ -287,6 +299,7 @@
 
 		"id": 13,
 		"text": "W odblokowanej skrytce o rozmiarze L znajduje się ponadgabarytowa przesyłka (nie można domknąć drzwi skrytki). Co należy zrobić w takiej sytuacji?",
+		"time" : 3,
 		"answers": [{
 			"id": 1,
 			"text": "Tylko i wyłącznie dostarczyć paczkę do oddziału",
@@ -310,6 +323,7 @@
 	{
 		"id": 14,
 		"text": "Po otworzeniu centralki zauważyłeś, że przewody fazowe mają zdjętą izolację i są ze sobą połączone poprzez skręcenie. Co należy zrobić w takiej sytuacji?",
+		"time" : 3,
 		"answers": [{
 			"id": 1,
 			"text": "Upewnić się, że przewody są ze sobą solidnie skręcone",
@@ -333,6 +347,7 @@
 	{
 		"id": 15,
 		"text": "Co pracownik powinien zweryfikować przed przystąpieniem do pracy biorąc pod uwagę własne bezpieczeństwo?",
+		"time" : 3,
 		"answers": [{
 			"id": 1,
 			"text": "Czy maszyna posiada wsporniki stabilizujące",
@@ -356,6 +371,7 @@
 	{
 		"id": 16,
 		"text": "Otrzymałeś zgłoszenie na wymianę zasilacza, po przyjeździe na miejsce pada silny deszcz. Co robisz? [NEXT]",
+		"time" : 3,
 		"answers": [{
 			"id": 1,
 			"text": "Zawieszam zlecenie i przyjeżdżam w innym terminie",
@@ -379,6 +395,7 @@
 	{
 		"id": 17,
 		"text": "Ile pinów ma złącze I/O w LockerBusie?",
+		"time" : 3,
 		"answers": [{
 			"id": 1,
 			"text": "10 pinów",
@@ -402,6 +419,7 @@
 	{
 		"id": 18,
 		"text": "Jaka powinna być ustawiona częstotliwość odświeżania monitora? [NEW FM]",
+		"time" : 3,
 		"answers": [{
 			"id": 1,
 			"text": "75 Hz",
@@ -425,6 +443,7 @@
 	{
 		"id": 19,
 		"text": "Co zasila przetwornica PU-200? [V SERIA]",
+		"time" : 3,
 		"answers": [{
 			"id": 1,
 			"text": "Komputer",
@@ -448,6 +467,7 @@
 	{
 		"id": 20,
 		"text": "Napięciem o jakiej wartości może być wysterowany poniższy przekaźnik?",
+		"time" : 3,
 		"image": "/images/pytania20.jpg",
 		"answers": [{
 			"id": 1,
@@ -472,6 +492,7 @@
 	{
 		"id": 21,
 		"text": "Do którego portu w PC powinien być podłączony sterownik IODA od lewej strony? [I seria]",
+		"time" : 3,
 		"answers": [{
 			"id": 1,
 			"text": "COM 2",
@@ -495,6 +516,7 @@
 	{
 		"id": 22,
 		"text": "Skaner nie skanuje kodów wyświetlanych na ekranie telefonu. Co może być tego przyczyną? [I seria]",
+		"time" : 3,
 		"answers": [{
 			"id": 1,
 			"text": "Skaner jest uszkodzony",
@@ -515,6 +537,7 @@
 	{
 		"id": 23,
 		"text": "Moduł 3L nie chce się dodać do layout'u. Zarówno extender (expander) jak i zamki są widoczne w Service Application. Extender (expander) jest sprawny, ma prawidłowy adres oraz liczbę zamków. Zamki są sprawne oraz prawidłowo zaprogramowane. Co może być tego przyczyną? [V seria]",
+		"time" : 3,
 		"answers": [{
 			"id": 1,
 			"text": "Uszkodzony zamek",
@@ -538,6 +561,7 @@
 	{
 		"id": 24,
 		"text": "Router łączy się z siecią T-Mobile w technologii 3G, natomiast z siecią Plus w technologii 4G (PM znajduje się w obszarze zasięgu LTE sieci T-Mobile, router ma zamontowany moduł GSM ME909s-120). Co może być przyczyną braku połączenia w technologii LTE?",
+		"time" : 3,
 		"answers": [{
 			"id": 1,
 			"text": "Brak zasięgu 4G",
@@ -557,6 +581,7 @@
 	{
 		"id": 25,
 		"text": "DVR wydaje przerywany sygnał dźwiękowy, nie można się z nim połączyć. Rejestrator, dysk oraz kabel SATA są sprawne. Co może być tego przyczyną?",
+		"time" : 3,
 		"answers": [{
 			"id": 1,
 			"text": "Zbyt wysokie napięcie na wejściu zasilania DVRa",
