@@ -2,7 +2,7 @@
     {
       "id": "1",
       "text": "Ile wynosi pierwiastek kwadratowy z 25?",
-      "time": "15",
+      "time": 15,
       "answers": [
         {"id": "1", "text": "5", "isCorrect": "true"},
         {"id": "2", "text": "10", "isCorrect": "false"},
@@ -14,7 +14,7 @@
     {
       "id": "2",
       "text": "Jak nazywa się liczba, która jest sumą dwóch liczb pierwszych?",
-      "time": "18",
+      "time": 18,
       "answers": [
         {"id": "1", "text": "Liczba złożona", "isCorrect": "true"},
         {"id": "2", "text": "Liczba parzysta", "isCorrect": "false"},
@@ -26,7 +26,7 @@
     {
       "id": "3",
       "text": "Jaki jest wynik mnożenia 8 przez 7?",
-      "time": "12",
+      "time": 12,
       "answers": [
         {"id": "1", "text": "48", "isCorrect": "false"},
         {"id": "2", "text": "56", "isCorrect": "true"},
@@ -38,7 +38,7 @@
     {
       "id": "4",
       "text": "Co to jest liczba pierwsza?",
-      "time": "14",
+      "time": 14,
       "answers": [
         {"id": "1", "text": "Liczba podzielna przez 2", "isCorrect": "false"},
         {"id": "2", "text": "Liczba podzielna przez 3", "isCorrect": "false"},
@@ -50,7 +50,7 @@
     {
       "id": "5",
       "text": "Ile stopni wynosi suma kątów w trójkącie?",
-      "time": "17",
+      "time": 17,
       "answers": [
         {"id": "1", "text": "90", "isCorrect": "false"},
         {"id": "2", "text": "120", "isCorrect": "false"},
@@ -62,7 +62,7 @@
     {
       "id": "6",
       "text": "Jaka jest wartość liczby π (pi) przybliżona do dwóch miejsc po przecinku?",
-      "time": "11",
+      "time": 11,
       "answers": [
         {"id": "1", "text": "3.14", "isCorrect": "true"},
         {"id": "2", "text": "2.71", "isCorrect": "false"},
@@ -74,7 +74,7 @@
     {
       "id": "7",
       "text": "Ile wynosi pole prostokąta o bokach 6 i 8?",
-      "time": "20",
+      "time": 20,
       "answers": [
         {"id": "1", "text": "12", "isCorrect": "false"},
         {"id": "2", "text": "24", "isCorrect": "false"},
@@ -86,7 +86,7 @@
     {
       "id": "8",
       "text": "Jaki jest wynik dzielenia 64 przez 8?",
-      "time": "16",
+      "time": 16,
       "answers": [
         {"id": "1", "text": "4", "isCorrect": "false"},
         {"id": "2", "text": "6", "isCorrect": "false"},
@@ -98,7 +98,7 @@
     {
       "id": "9",
       "text": "Co to jest liczba ułamkowa?",
-      "time": "13",
+      "time": 13,
       "answers": [
         {"id": "1", "text": "Liczba całkowita", "isCorrect": "false"},
         {"id": "2", "text": "Liczba rzeczywista", "isCorrect": "false"},
@@ -110,7 +110,7 @@
     {
       "id": "10",
       "text": "Jak nazywa się teoremat mówiący o stosunku między długościami boków",
-      "time": "19",
+      "time": 19,
       "answers": [
         {"id": "1", "text": "Twierdzenie Euklidesa", "isCorrect": "false"},
         {"id": "2", "text": "Twierdzenie Pitagorasa", "isCorrect": "true"},
